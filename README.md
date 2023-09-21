@@ -7,16 +7,16 @@ These are profiles of models.
 
 From: https://github.com/lifang535/traffic_monitoring_1
 
-Profile: 
+Profile: [traffic_monitoring]()
 
 ### Speech_translation
 
 From: https://github.com/lifang535/speech_translation_1
 
-Profile: 
+Profile: [speech_translation]()
 
 ### Emotion_and_action_detection
 
 From: https://github.com/lifang535/emotion_and_action_detection_1
 
-Profile: 
+Profile: [emotion_and_action_detection]()
