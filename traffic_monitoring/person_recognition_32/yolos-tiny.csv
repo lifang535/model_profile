@@ -1,4 +1,4 @@
-model_name: yolos-tiny
+model_name: yolos-tiny - gpu
 load_time(ms): 3973.22
 image_size: 910x512
 batch_size, first_inference(ms), inference_avg(ms)
