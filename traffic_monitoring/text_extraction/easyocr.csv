@@ -1,4 +1,4 @@
-model_name: easyocr
+model_name: easyocr - gpu
 load_time(ms): 7202.25
 image_size: 405x256
 batch_size, first_inference(ms), inference_avg(ms)
